@@ -31,6 +31,7 @@ kms.sh
 
 ```
 使用命令：
+安装：wget --no-check-certificate https://github.com/teddysun/across/raw/master/kms.sh && chmod +x kms.sh && ./kms.sh
 启动：/etc/init.d/kms start
 停止：/etc/init.d/kms stop
 重启：/etc/init.d/kms restart
