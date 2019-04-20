@@ -36,6 +36,7 @@ kms.sh
 停止：/etc/init.d/kms stop
 重启：/etc/init.d/kms restart
 状态：/etc/init.d/kms status
+卸载：./kms.sh uninstall
 ```
 
 bench.sh
