@@ -29,6 +29,14 @@ kms.sh
 - Description: Auto install KMS Server
 - Intro: https://teddysun.com/530.html
 
+```
+使用命令：
+启动：/etc/init.d/kms start
+停止：/etc/init.d/kms stop
+重启：/etc/init.d/kms restart
+状态：/etc/init.d/kms status
+```
+
 bench.sh
 ========
 
